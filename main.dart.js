@@ -55159,7 +55159,7 @@ p=B.Ba[s]
 i[s]=new A.be(B.hr,A.bf(A.c([new A.hQ(r.a.a*0.1,o,o,o),new A.lh(B.yF,o,o,o),new A.hQ(q.a.a*0.005,o,o,o),new A.nA(1,B.aZ,A.ay(p,o,o,new A.t(!0,B.h,o,o,o,o,18,o,o,0.5,o,o,1.5,o,o,o,o,o,o,o,o,o,o,o,o),B.X,o),o)],k),B.aw,B.p,B.j),o)}B.b.M(j,i)
 return new A.be(new A.au(m,0,m,0),new A.be(B.bz,new A.be(new A.au(0,l,0,l),A.b1(j,B.aw,B.p,B.j),o),o),o)}}
 A.zg.prototype={
-G(a,b){var s,r=null,q=A.aE(117,0,0,0),p=A.np(B.R,B.c3,new A.eV("images/AchievementBlurred.jpg",r,r)),o=t.w,n=A.at(r,b.A(o).f.a.b*0.05,r),m=A.jD(A.ay("Achievements",r,r,A.dv(new A.u(4294967295),40,B.M,1.5),B.aa,r),r,r)
+G(a,b){var s,r=null,q=A.aE(117,0,0,0),p=A.np(B.R,B.c3,new A.eV("images/AchievementsBlurreds.jpg",r,r)),o=t.w,n=A.at(r,b.A(o).f.a.b*0.05,r),m=A.jD(A.ay("Achievements",r,r,A.dv(new A.u(4294967295),40,B.M,1.5),B.aa,r),r,r)
 o=b.A(o).f.a.a*0.05
 s=t._
 return new A.dy(B.ao,A.b1(A.c([A.bv(r,A.b1(A.c([n,m,new A.be(new A.au(o,0,o,0),A.b1(this.c,B.k,B.E,B.j),r)],s),B.k,B.p,B.j),r,new A.cY(q,p,r,r,r,r,r,B.ae),r,r,r,r)],s),B.aL,B.E,B.j),r)}}
@@ -55171,7 +55171,7 @@ G(a,b){var s=null
 return new A.EQ(A.Xg(s),A.Xg(new A.t3(s)),A.Xg(new A.C3(s)),A.Xg(new A.C2(s)),s)}}
 A.C2.prototype={
 G(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f=t.w,e=a2.A(f).f.a.b,d=a2.A(f).f.a.a,c=d<1200,b=c?e*0.15:e*0.1,a=A.bh(0,0,1),a0=A.bh(0,800,0)
-b=A.ud(g,A.Dh(!1,new A.l2(A.nH("images/Mohit.png",c?e*0.8:e*0.85,g),a,a0,new A.p(0,0),g),0.9),g,g,g,d*0.01,b,g)
+b=A.ud(g,A.Dh(!1,new A.l2(A.nH("images/Mohitremovebg.png",c?e*0.8:e*0.85,g),a,a0,new A.p(0,0),g),0.9),g,g,g,d*0.01,b,g)
 a=d*0.1
 a0=e*0.03
 s=A.a7n("WELCOME TO MY PORTFOLIO! ",A.dv(B.h,a0,B.bg,g))
@@ -55199,7 +55199,7 @@ $S:1}
 A.t3.prototype={
 az(){return new A.Ii(B.n)}}
 A.Ii.prototype={
-G(a,b){var s,r,q,p,o=null,n=t.w,m=b.A(n).f.a.b,l=b.A(n).f.a.a,k=A.ud(0,A.Dh(!1,A.nH("images/Mohit.png",m*0.65,o),0.9),o,o,o,-l*0.025,o,o),j=m*0.03,i=t._,h=A.bf(A.c([A.ay("HEY THERE! ",o,o,A.dv(B.h,m*0.025,B.b_,o),o,o),A.nH("images/hi.gif",j,o)],i),B.k,B.p,B.bm),g=A.at(o,m*0.01,o),f=m*0.055,e=A.ay("Battu",o,o,A.dv(B.h,f,B.aN,1.1),o,o)
+G(a,b){var s,r,q,p,o=null,n=t.w,m=b.A(n).f.a.b,l=b.A(n).f.a.a,k=A.ud(0,A.Dh(!1,A.nH("images/Mohitremovebg.png",m*0.65,o),0.9),o,o,o,-l*0.025,o,o),j=m*0.03,i=t._,h=A.bf(A.c([A.ay("HEY THERE! ",o,o,A.dv(B.h,m*0.025,B.b_,o),o,o),A.nH("images/hi.gif",j,o)],i),B.k,B.p,B.bm),g=A.at(o,m*0.01,o),f=m*0.055,e=A.ay("Battu",o,o,A.dv(B.h,f,B.aN,1.1),o,o)
 f=A.ay("Mohit",o,o,A.dv(B.h,f,B.M,o),o,o)
 s=A.dc(B.ew,new A.u(4290787627),o)
 r=A.bh(0,50,0)
@@ -55215,7 +55215,7 @@ $S:1}
 A.C3.prototype={
 G(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=t.w,g=b.A(h).f.a.b,f=b.A(h).f.a.a,e=f<740,d=e?g*0.1:g*0.15,c=-f
 c=e?c*0.02:c*0.1
-c=A.ud(d,A.Dh(!1,A.nH("images/Mohit.png",g*0.75,i),0.9),i,i,i,c,i,i)
+c=A.ud(d,A.Dh(!1,A.nH("images/Mohitremovebg.png",g*0.75,i),0.9),i,i,i,c,i,i)
 e=e?g*0.15:g*0.2
 d=g*0.03
 s=t._
