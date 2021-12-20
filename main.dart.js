@@ -62108,7 +62108,7 @@ $S:1}
 A.ui.prototype={
 aG(){return new A.Kz(B.n)}}
 A.Kz.prototype={
-H(a,b){var s,r,q,p,o=null,n=t.w,m=b.u(n).f.a.b,l=b.u(n).f.a.a,k=A.vG(0,A.F3(!1,A.oC("images/Mohit.png",m*0.65,o),0.9),o,o,o,-l*0.015,o,o),j=m*0.03,i=t._,h=A.bj(A.b([A.aA("HEY THERE! ",o,o,A.dQ(B.i,m*0.025,B.ba,o),o,o),A.oC("images/hi.gif",j,o)],i),B.l,B.r,B.bB),g=A.aw(o,m*0.01,o),f=m*0.055,e=A.aA("Battu",o,o,A.dQ(B.i,f,B.aV,1.1),o,o)
+H(a,b){var s,r,q,p,o=null,n=t.w,m=b.u(n).f.a.b,l=b.u(n).f.a.a,k=A.vG(0,A.F3(!1,A.oC("images/Mohit.png",m*0.65,o),0.9),o,o,o,-l*0.025,o,o),j=m*0.03,i=t._,h=A.bj(A.b([A.aA("HEY THERE! ",o,o,A.dQ(B.i,m*0.025,B.ba,o),o,o),A.oC("images/hi.gif",j,o)],i),B.l,B.r,B.bB),g=A.aw(o,m*0.01,o),f=m*0.055,e=A.aA("Battu",o,o,A.dQ(B.i,f,B.aV,1.1),o,o)
 f=A.aA("Mohit",o,o,A.dQ(B.i,f,B.S,o),o,o)
 s=A.dz(B.fm,new A.w(4290787627),o)
 r=A.bg(0,50,0)
@@ -62123,7 +62123,7 @@ $0(){A.e1(u.u)},
 $S:1}
 A.DP.prototype={
 H(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=t.w,g=b.u(h).f.a.b,f=b.u(h).f.a.a,e=f<740,d=e?g*0.1:g*0.15,c=-f
-c=e?c*0.025:c*0.055
+c=e?c*0.02:c*0.1
 c=A.vG(d,A.F3(!1,A.oC("images/Mohit.png",g*0.75,i),0.9),i,i,i,c,i,i)
 e=e?g*0.15:g*0.2
 d=g*0.03
