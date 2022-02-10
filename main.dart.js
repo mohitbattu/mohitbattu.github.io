@@ -62282,8 +62282,8 @@ Km(a){var s=null,r="Hey! I'm currently pursuing M.Sc in Computer Science at Blek
 l=A.bI(s,new A.bi(B.bQ,A.aA(r,s,s,B.T,s,s),s),s,s,s,s,s,l.a.a*0.55)
 q=a.A(q).f
 return A.b([p,new A.bi(new A.ax(32,0,32,0),o,s),n,m,A.GJ(l,A.bI(s,new A.bi(B.bQ,A.aA(r,s,s,B.T,s,s),s),s,s,s,s,s,q.a.a*0.6))],t._)},
-H(a,b){var s=this,r=null,q=" +46 0766-337923",p="Karlskrona, Sweden",o=t.w,n=t._
-return A.GJ(A.b4(A.b([new A.dU(B.at,A.b4(A.b([new A.bi(new A.ax(0,100,0,100),A.bj(A.b([A.aw(r,r,b.A(o).f.a.a*0.05),A.b4(A.b([s.Kn(b),A.aw(r,b.A(o).f.a.b*0.02,r),A.bj(A.b([A.dz(B.fk,B.i,r),A.aA(q,r,r,B.T,r,r)],n),B.l,B.r,B.k),A.aw(r,b.A(o).f.a.b*0.02,r),A.bj(A.b([A.dz(B.fl,B.i,r),A.aA(p,r,r,B.T,r,r)],n),B.l,B.r,B.k)],n),B.l,B.r,B.k),A.aw(r,r,b.A(o).f.a.a*0.025),A.b4(s.Km(b),B.l,B.F,B.k)],n),B.l,B.r,B.k),r)],n),B.l,B.r,B.k),r)],n),B.aT,B.r,B.k),A.b4(A.b([new A.dU(B.at,A.b4(A.b([A.aw(r,b.A(o).f.a.b*0.05,r),s.Kn(b),A.aw(r,b.A(o).f.a.b*0.02,r),A.bj(A.b([A.dz(B.fk,B.i,r),A.aA(q,r,r,B.T,r,r)],n),B.l,B.F,B.k),A.aw(r,b.A(o).f.a.b*0.02,r),A.bj(A.b([A.dz(B.fl,B.i,r),A.aA(p,r,r,B.T,r,r)],n),B.l,B.F,B.k),A.b4(s.Km(b),B.l,B.F,B.k),A.aw(r,b.A(o).f.a.b*0.025,r)],n),B.l,B.r,B.k),r)],n),B.aT,B.r,B.k))}}
+H(a,b){var s=this,r=null,q="Karlskrona, Sweden",p=t.w,o=t._
+return A.GJ(A.b4(A.b([new A.dU(B.at,A.b4(A.b([new A.bi(new A.ax(0,100,0,100),A.bj(A.b([A.aw(r,r,b.A(p).f.a.a*0.05),A.b4(A.b([s.Kn(b),A.aw(r,b.A(p).f.a.b*0.02,r),A.bj(A.b([A.dz(B.fk,B.i,r),A.aA(" +46 0705493451",r,r,B.T,r,r)],o),B.l,B.r,B.k),A.aw(r,b.A(p).f.a.b*0.02,r),A.bj(A.b([A.dz(B.fl,B.i,r),A.aA(q,r,r,B.T,r,r)],o),B.l,B.r,B.k)],o),B.l,B.r,B.k),A.aw(r,r,b.A(p).f.a.a*0.025),A.b4(s.Km(b),B.l,B.F,B.k)],o),B.l,B.r,B.k),r)],o),B.l,B.r,B.k),r)],o),B.aT,B.r,B.k),A.b4(A.b([new A.dU(B.at,A.b4(A.b([A.aw(r,b.A(p).f.a.b*0.05,r),s.Kn(b),A.aw(r,b.A(p).f.a.b*0.02,r),A.bj(A.b([A.dz(B.fk,B.i,r),A.aA(" +46 0766-337923",r,r,B.T,r,r)],o),B.l,B.F,B.k),A.aw(r,b.A(p).f.a.b*0.02,r),A.bj(A.b([A.dz(B.fl,B.i,r),A.aA(q,r,r,B.T,r,r)],o),B.l,B.F,B.k),A.b4(s.Km(b),B.l,B.F,B.k),A.aw(r,b.A(p).f.a.b*0.025,r)],o),B.l,B.r,B.k),r)],o),B.aT,B.r,B.k))}}
 A.YD.prototype={
 $1(a){var s
 A.aas().$1(A.d(a.gLk())+" of my widget is visible")
